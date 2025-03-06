@@ -1,0 +1,245 @@
+@import url('https://fonts.googleeapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+
+    
+title{
+    position: absolute;
+    top: 0;
+    bottom: 30px;
+    left: 0;
+    width:200%;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 80%;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+    
+
+header ul{
+    position: relative;
+    display: flex;
+    
+}
+header ul li {
+    list-style: none;
+    padding-right: 80px;
+    }
+header ul li a{
+    display: inline-block;
+    color: white;
+    font-weight: 400;
+    margin-left: 60px;
+    text-decoration: none;
+    align-items: center;
+}
+body{
+    background-color:black;
+    
+}
+.content .textbox p{
+    color: aqua;
+    
+}
+h1{
+    color: aliceblue;
+    
+}
+.content  .textbox button{
+    display: inline-block;
+    height: 30px;
+    width: 110px;
+    color: black;
+    background-color: yellow;
+    font-size: 16px;
+    border-radius: 16px;
+    
+}
+.content .textbox h3 a{
+    color:black ;
+}
+.content .thumb li{
+    color:white
+    
+
+}
+.content .thumb p{
+    color: white;
+    padding-left: 80px;
+}
+.content .thumb h2{
+    color: yellow;
+    padding-left: 80px;
+
+     }
+     
+body{
+    width: 700px;
+    height: 500px;
+padding-right: 500px;
+
+}
+.temp h2{
+    color: yellow;
+    padding-left: 80px;
+}
+.temp p{
+    color: white;
+    padding-left: 80px;
+}
+.text h1 {
+     
+    color: yellow;
+
+}
+.text p{
+    color: white;
+    text-align: right;
+}
+.text img{
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+    padding-left: 80px;
+    border-width: thick;
+
+}
+ .concept h1{
+    color: yellow;
+    padding-left: 80px;
+}
+.concept ul {
+    color: white;
+    padding-left: 80px;
+}
+
+.concept img{
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+    padding-left: 50px;
+    border-width: thick;
+}
+.circle h1{
+    color: yellow;
+    padding-left: 20px;
+}
+
+.circle img{
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+    padding-left: 50px;
+    border-width: thick;
+ 
+}
+.dot p{
+    padding-left: 350px;
+    color: white;
+}
+.butterfly p{
+    padding-left: 350px ;
+    color: white;
+}
+.happy{
+ background: linear-gradient(to top, rgba(202, 182, 182, 0.75)50%,rgba(225, 211, 211, 0.5)50%), url(image6.jpg);
+background-position: center;
+background-size: cover;
+height: 50vh;
+width: 900px;
+
+
+}
+.welcome h1{
+    color: yellow;
+}
+.welcome p{
+    color:blue;
+}
+.hello a{
+    background-color: yellow;
+    color: orange;
+
+       display: inline-block;
+        margin-top: 20px;
+        padding:8px 20px;
+        
+        
+        border-radius: 40px;
+        font-weight: 500;
+        letter-spacing: 1px;.
+        text-decoration: none;
+
+
+}
+   .button{
+    display: inline-block;
+    height: 30px;
+    width: 110px;
+    color: black;
+    background-color: yellow;
+    font-size: 16px;
+    border-radius: 16px;
+    
+   }
+   .content{
+    
+        background: linear-gradient(to top, rgba(202, 182, 182, 0.75)50%,rgba(225, 211, 211, 0.5)50%), url(image6.jpg);
+       background-position: center;
+       background-size: cover;
+       height: 60vh;
+       width: 970px;
+   }
+   header h3{
+    color: black;
+    background-color: yellow;
+   }
+   .Family h2{
+    color: yellow;
+   }
+   .Family p{
+    color: white;
+   }
+   lable{
+    color: white;
+    
+   
+   }
+  .power button{
+    display: inline-block;
+    height: 40px;
+    width: 130px;
+    color: black;
+    background-color: yellow;
+    font-size: 16px;
+    border-radius: 16px;
+   }
+   .end h3{
+    color: yellow;
+
+   }
+.sci {
+    display: flex;
+    align-items: center;
+    margin: 5px 900px;
+    transform: scale(0.2);
+    justify-content: space-between;
+    
+}
+.space p{
+    color: white;
+}
+hr{
+    width: 160%;
+    margin: 0 auto;
+}
+ 
